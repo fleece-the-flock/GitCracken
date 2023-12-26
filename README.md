@@ -1,6 +1,8 @@
 # GitCracken
 
-GitKraken utils for non-commercial use
+> A GitKraken util for non-commercial use
+
+[中文](README.zh.md)
 
 Working on `GNU/Linux` (without `snap`), `Windows` and `macOS`!
 
