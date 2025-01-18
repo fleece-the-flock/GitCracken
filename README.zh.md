@@ -1,4 +1,4 @@
-# [Gitkraken 最新版v9.x全平台Pro版激活教程](https://github.com/wanZzz6/Modules-Learn/blob/master/%E6%8A%80%E6%9C%AF/Gitkraken%20%E6%9C%80%E6%96%B0%E7%89%88v9.x%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B.md)
+# [Gitkraken 最新版v9、v10全平台Pro版激活教程](https://github.com/wanZzz6/Modules-Learn/blob/master/%E6%8A%80%E6%9C%AF/Gitkraken%20%E6%9C%80%E6%96%B0%E7%89%88v9%E3%80%81v10%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B.md)
 
 ## 一、 免责声明
 
@@ -10,9 +10,9 @@
 
 ## 二、软件安装
 
-此工具支持破解 Gitkraken V8.2.0 ~ V9.x(最新版)，直接从官网下载最新的安装包即可，如后续破解工具失效，可回退到旧版进行激活
+此工具支持破解 Gitkraken V8.2.0 ~ V10.x(最新版)，直接从官网下载最新的安装包即可，如后续破解工具失效，可先回退到旧版进行激活
 
-(亲测9.9.2可用)
+(亲测 **v9.x~v10.6.1** 都可用)
 
 官网下载地址：[Gitkraken](https://www.gitkraken.com/download)
 
@@ -136,16 +136,16 @@ yarn gitcracken patcher     # Mac/Linux 用户可能需要root权限，需在前
 
 重新打开Gitkraken，并打开一个git仓库，激活成功会在右下角看到 **Pro** 标志。
 
-![image-20231015115450846](https://md-picture-1254350681.cos.ap-beijing.myqcloud.com/gitkraken-v991.png)
+![image-20240806103331701](https://md-picture-1254350681.cos.ap-beijing.myqcloud.com/gitkraken-v1011.png)
 
 
 
 如果显示 **Free** 可尝试删除用户缓存目录
 
 - Windows
-  - `C:\Users\{用户名}\AppData\Roaming\\.gitkraken` 
+  - `C:\Users\{用户名}\AppData\Roaming\\.gitkraken`
 - Mac、Linux：
-  -  `~/.gitkraken` 
+  -  `~/.gitkraken`
 
 然后重新打开软件并登录，如果依然显示Free，那就是破解工具失效了，只能切回旧版本了。
 
@@ -183,7 +183,7 @@ yarn gitcracken patcher     # Mac/Linux 用户可能需要root权限，需在前
 ### 6.1 Windows卸载残留
 
 - `C:\Users\{用户名}\AppData\Roaming\\.gitkraken` （**注**：这里存放账号信息、打开过的项目、用户设置等，如果你只是升级版本，可以不用删除）
-- `C:\Users\{用户名}\AppData\Roaming\GitKraken` 
+- `C:\Users\{用户名}\AppData\Roaming\GitKraken`
 - `C:\Users\{用户名}\AppData\Local\gitkraken` （**注**：这是默认安装位置，如果安装完成后桌面没有快捷方式，可从这里启动）
 
 ### 6.2 Mac 卸载残留
@@ -192,34 +192,38 @@ yarn gitcracken patcher     # Mac/Linux 用户可能需要root权限，需在前
 rm -r ~/.gitkraken
 ```
 
-
-
 ### 6.3 查询所有历史版本
 
-可能需要梯子
+（如无法直接打开可借助梯子）
 
-[GitKraken Client v7.x 更新记录](https://help.gitkraken.com/gitkraken-client/7x/)
-
-[GitKraken Client v8.x 更新记录](https://help.gitkraken.com/gitkraken-client/8x/)
-
-[GitKraken Client v9.x 更新记录](https://help.gitkraken.com/gitkraken-client/current/)
+- [GitKraken Client v7.x 更新记录](https://help.gitkraken.com/gitkraken-client/7x/)
+- [GitKraken Client v8.x 更新记录](https://help.gitkraken.com/gitkraken-client/8x/)
+- [GitKraken Client v9.x 更新记录](https://help.gitkraken.com/gitkraken-desktop/9x/)
+- [GitKraken Client当前最新版本更新记录](https://help.gitkraken.com/gitkraken-client/current/)
 
 ### 6.4 历史版本下载
 
-改改版本号就行
+改改版本号就行，例如7.7.0版本：
 
 - Linux-deb : https://release.axocdn.com/linux/GitKraken-v7.7.0.deb
+
 - Linux-rpm : https://release.axocdn.com/linux/GitKraken-v7.7.0.rpm
+
 - Linux-tar.gz : https://release.axocdn.com/linux/GitKraken-v7.7.0.tar.gz
+
 - Win64： https://release.axocdn.com/win64/GitKrakenSetup-7.7.0.exe
+
+  或者 https://release.axocdn.com/windows/GitKrakenSetup-10.1.1.exe
+
 - Mac (Intel) : https://release.axocdn.com/darwin/GitKraken-v7.7.0.zip
+
 - Mac (Apple Silicon) 从v9.0.0开始支持：https://release.axocdn.com/darwin-arm64/GitKraken-v9.0.0.zip
 
 ### 6.5 旧版7.5|6.0百度云下载地址（备用）
 
 - 7.5.1 版本
-链接: [https://pan.baidu.com/s/1MyN54U_r3lQ-PAIcmt9vcg](https://pan.baidu.com/s/1MyN54U_r3lQ-PAIcmt9vcg) 
-提取码: tjfj 
+链接: [https://pan.baidu.com/s/1MyN54U_r3lQ-PAIcmt9vcg](https://pan.baidu.com/s/1MyN54U_r3lQ-PAIcmt9vcg)
+提取码: tjfj
 
 - 6.5.0 版本
 链接：[https://pan.baidu.com/s/1ysDsu41C5RggfllPPoVGPA](https://pan.baidu.com/s/1ysDsu41C5RggfllPPoVGPA)
